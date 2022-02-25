@@ -1,0 +1,27 @@
+name: "CVSM"
+output_dir: "."
+navbar:
+  title: "B020881 (B213) - AA 2021-2022"
+  left:
+    - text: "Introduzione"
+      href: index.html
+    - text: "Materiali didattici"
+      href: materials.html
+    - text: "Calendario"
+      href: calendar.html
+    - text: "Laboratorio didattico"
+      href: project.html
+    - text: "Come studiare"
+      href: flipped.html
+    - text: "Esame"
+      href: exam.html
+    - text: "FAQ"
+      href: faq.html
+author: "Corrado Caudek"
+output:
+  html_document:
+    theme: readable
+    toc: true
+    toc_collapse: false
+    toc_depth: 3
+    toc_float: true

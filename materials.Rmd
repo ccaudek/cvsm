@@ -1,0 +1,28 @@
+---
+title: "Materiali didattici"
+date: "Pagina aggiornata il `r Sys.Date()`"
+---
+
+## Dispensa
+
+Tutto ciò che verrà discusso a lezione è presente nella dispensa 
+
+- [cvsm22](https://github.com/ccaudek/psicometria/blob/main/ds4psy.pdf) 
+
+La dispensa include tutte le istruzioni $\textsf{R}$ per lo svolgimento delle analisi guidate dei dati che sarà necessario conoscere per superare l'esame.
+
+## Libro di testo
+
+Per chi volesse approfondire gli argomenti discussi a lezione, e per chi non frequenta le lezioni, consiglio il seguente testo:
+
+- Brown, Timothy A. (2015). *Confirmatory factor analysis for applied research*. Guilford publications.
+
+## Materiali supplementari
+
+Il migliore testo introduttivo al linguaggio $\textsf{R}$ è 
+
+- [R for Data Science](https://r4ds.had.co.nz/) 
+
+
+
+

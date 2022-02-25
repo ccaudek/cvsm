@@ -1,0 +1,27 @@
+---
+title: "Modalità di verifica dell'apprendimento"
+date: "Pagina aggiornata il `r Sys.Date()`"
+---
+
+Il programma d'esame è identico per gli studenti frequentanti e per gli studenti non frequentanti.
+
+## Studenti frequentanti
+
+Per essere considerato uno studente _frequentante_ è necessario
+
+1. partecipare in maniera attiva alle lezioni,
+2. completare entro i tempi indicati gli WarmUp assegnati,
+3. completare le attività del laboratorio didattico (stesura e presentazione orale di un lavoro di costruzione/validazione di un reattivo psicologico).
+
+Negli anni passati la quasi totalità degli studenti ha scelto (con profitto) la modalità d'esame per studenti frequentanti.
+
+## Studenti non frequentanti
+
+L'esame che si svolgerà nel periodo previsto per le sessioni d'esami avrà la seguente forma: 
+
+- utilizzando dei dati messi a disposizione durante l'esame, allo studente verrà richiesto di svolgere una serie di analisi statistiche relative alla validazione di uno strumento psicometrico;
+- seguirà un esame orale sugli argomenti presentati nelle dispense e nel testo di Brown (2015).
+
+Per partecipare all'esame è richiesto l'uso del proprio computer portatile. In caso di esami in presenza, gli studenti _dovranno portare con sé un computer portatile alla Torretta_.
+
+

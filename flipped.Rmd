@@ -1,0 +1,20 @@
+---
+title: "Insegnamento capovolto"
+date: "Pagina aggiornata il `r Sys.Date()`"
+---
+
+## Flip teaching
+
+In questo insegnamento verrà utilizzata la modalità didattica detta _flip teaching_.  La Flipped Classroom prevede due momenti. Nel primo momento, lo studente sarà tenuto a studiare a casa, individualmente e prima della lezione, tutti i materiali assegnati (i materiali didattici saranno disponibili su Moodle). Durante il secondo momento, che comprende le ore svolte in classe, verranno proposte attività di discussione, esercitazione, approfondimento e consolidamento degli argomenti trattati. Ciò consentirà agli studenti, secondo una logica di _learning by doing_, di materializzare, approfondire e sviluppare il processo di apprendimento attivato a casa. Le ore in classe forniranno agli studenti l'opportunità di chiedere chiarimenti, di elaborare i concetti e di partecipare ad esercitazioni mirate ed assistite.
+
+- Agli studenti chiederò di studiare il materiale didattico che verrà assegnato _prima di ciascuna lezione_.
+- Agli studenti verrà chiesto di svolgere uno o più esercizi _WarmUp_ _prima di ciascuna lezione_. 
+- Le lezioni richiederanno la partecipazione attiva degli studenti alla discussione. Vi chiederò di avere sempre a portata di mano un computer poiché spesso svolgeremo insieme esercizi in $\textsf{R}$.
+
+## Esercizi WarmUp
+
+L'insegnamento just-in-time (_just-in-time teaching_, JiTT) è una strategia di insegnamento e apprendimento progettata per promuovere l'uso del tempo in classe per un apprendimento più attivo. Sviluppato da Gregor Novak e colleghi, JiTT si basa su un ciclo di feedback tra i materiali didattici forniti online e le attività in classe (Novak et al., 1999). Gli studenti si preparano per la lezione dopo avere studiato i materiali didattici che sono stati loro forniti e dopo avere completato online i compiti assegnati (chiamati WarmUp). Questi compiti hanno spesso risposte complesse; il lavoro degli studenti al di fuori della classe serve come preparazione per un lavoro più completo in classe. Le risposte degli studenti vengono consegnate prima dell'inizio della lezione, consentendo al docente di adattare la lezione secondo necessità. JiTT consente la creazione di un ambiente interattivo che enfatizza l'apprendimento attivo e la risoluzione cooperativa dei problemi.
+
+### Forum Moodle
+
+Un altro strumento utile per la preparazione all'esame è il _Forum Moodle_. Chi, dopo avere studiato il materiale assegnato, ha dei dubbi, può chiedere chiarimenti sul Forum Moodle.  Se sarà necessario, di tanto in tanto, interverrò io stesso sul Forum Moodle per fornire i chiarimenti necessari. Ma, in primo luogo, mi aspetto che siano gli studenti a rispondere ai dubbi sollevati.
