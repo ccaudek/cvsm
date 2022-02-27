@@ -7,7 +7,7 @@ date: "Pagina aggiornata il `r Sys.Date()`"
 
 Tutto ciò che verrà discusso a lezione è presente nella dispensa 
 
-- [cvsm22](https://github.com/ccaudek/psicometria/blob/main/ds4psy.pdf) 
+- [cvsm22](https://github.com/ccaudek/cfa_book/blob/main/final_version/cfa_book.pdf) 
 
 La dispensa include tutte le istruzioni $\textsf{R}$ per lo svolgimento delle analisi guidate dei dati che sarà necessario conoscere per superare l'esame.
 
