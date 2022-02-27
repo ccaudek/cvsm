@@ -1,4 +1,4 @@
-# Psicometria
+# Costruzione e validazione di strumenti di misura dell’efficacia dell’intervento psicologico in neuropsicologia
 
 This site is published at https://ccaudek.github.io/cvsm/
 
