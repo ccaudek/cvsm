@@ -23,6 +23,7 @@ Il migliore testo introduttivo al linguaggio $\textsf{R}$ è
 
 - [R for Data Science](https://r4ds.had.co.nz/) 
 
+Uno dei migliori testi che introducono e spiegano l'analisi di regressione può essere consultato gratuitamente utilizzando questo sito:
 
-
+- [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/index.html)
 
