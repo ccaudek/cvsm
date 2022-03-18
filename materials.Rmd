@@ -27,3 +27,7 @@ Uno dei migliori testi che introducono e spiegano l'analisi di regressione può 
 
 - [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/index.html)
 
+Una utile Shiny app per la visualizzazione dei modelli CFA (e SEM) definiti con la sintassi `lavaan` può essere trovata seguendo questo link:
+
+- [shinySEM](https://utrecht-university.shinyapps.io/shinySEM/)
+
