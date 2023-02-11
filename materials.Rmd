@@ -5,7 +5,7 @@ date: "Pagina aggiornata il `r Sys.Date()`"
 
 ## Dispensa
 
-Tutto ciò che verrà discusso a lezione è presente nella dispensa [cvsm2022](https://ccaudek.github.io/cfa_book/).
+Tutto ciò che verrà discusso a lezione è presente nella dispensa [cvsm2023](https://ccaudek.github.io/cfa_book/).
 
 La dispensa include tutte le istruzioni $\textsf{R}$ per lo svolgimento delle analisi guidate dei dati che sarà necessario conoscere per superare l'esame. 
 

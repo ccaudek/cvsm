@@ -10,7 +10,7 @@ library("lubridate")
 ```
 
 ```{r include = FALSE}
-firstday <- "28-02-2022"
+firstday <- "02-03-2023"
     
 meetings <- dmy(firstday) + c(0:15) * weeks(1)
 
@@ -125,7 +125,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 *Incontri di lezione ed esercitazioni pratiche #* 30, 31, 32
 
-*Presentazioni*
+*Presentazioni dei lavori di gruppo per gli studenti frequentanti*
 
 <!-- ------------------------------------------------------ -->
 

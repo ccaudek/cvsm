@@ -13,7 +13,7 @@
 
 <title>Costruzione e validazione di strumenti di misura dell’efficacia dell’intervento psicologico in neuropsicologia</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -357,7 +354,7 @@ div.tocify {
 <h1 class="title toc-ignore">Costruzione e validazione di strumenti di
 misura dell’efficacia dell’intervento psicologico in
 neuropsicologia</h1>
-<h4 class="date">Pagina aggiornata il 2022-05-02</h4>
+<h4 class="date">Pagina aggiornata il 2023-02-11</h4>
 
 </div>
 
@@ -369,9 +366,9 @@ href="https://ccaudek.github.io/caudeklab/">Corrado Caudek</a>, Corso di
 Laurea Magistrale in Psicologia Clinica e della Salute e Neuropsicologia
 (curriculum: assessment e intervento psicologico in neuropsicologia -
 E21), <a href="https://www.unifi.it">Università degli Studi di
-Firenze</a>, anno accademico 2021-2022.</p>
+Firenze</a>, anno accademico 2022-2023.</p>
 <p><em>Questa pagina web verrà periodicamente aggiornata durante il
-periodo di svolgimento dell’insegnamento (marzo-maggio 2022).</em></p>
+periodo di svolgimento dell’insegnamento (marzo-maggio 2023).</em></p>
 <div id="descrizione-sintetica" class="section level2">
 <h2>Descrizione sintetica</h2>
 <p>L’insegnamento <em>Costruzione e validazione di strumenti di misura
@@ -387,8 +384,7 @@ esercitazioni pratiche e laboratori didattici. Per tali analisi guidate
 dei dati sarà necessario utilizzare un computer e un linguaggio di
 programmazione per l’analisi statistica dei dati. Poiché la psicometria
 e la statistica moderne possono essere eseguite utilizzando software
-open source come <span class="math inline">\(\textsf{R}\)</span>, gli
-esempi saranno presentati in <span
+open source, gli esempi saranno presentati in <span
 class="math inline">\(\textsf{R}\)</span>.</p>
 </div>
 <div id="obiettivi-formativi" class="section level2">
@@ -410,27 +406,25 @@ probabilità; presuppone inoltre il possesso delle conoscenze di base
 necessarie per procedere all’utilizzo di <span
 class="math inline">\(\textsf{R}\)</span>. Informazioni su tali
 argomenti sono forniti nella dispensa di Psicometria (A.A.
-2021-2022).</p>
+2022-2023).</p>
 </div>
 <div id="ulteriori-informazioni" class="section level2">
 <h2>Ulteriori informazioni</h2>
 <div id="ricevimento" class="section level3">
 <h3>Ricevimento</h3>
-<p>Questo è un periodo storico insolito, per tutti noi. Non avremo un
-“luogo fisico” in cui poterci incontrare al di fuori delle lezioni. Il
-COVID-19 non è ancora stato neutralizzato. Detto questo, e date le
-preoccupazioni per il mio benessere e il benessere dei membri della mia
-famiglia, durante le lezioni in presenza mi comporterò nel modo
-seguente: me ne andrò dall’aula immediatamente dopo avere finito la
-lezione. È normale voler chiedere al professore qualcosa in privato dopo
-la lezione, o anche solo chiacchierare con lui sugli argomenti della
-lezione, durante la pausa. Tuttavia, questo non è un momento normale e
-dobbiamo adattarci alla situazione in cui ci troviamo. Ciò nonostante,
-continuerò ad essere facilmente reperibile. Vi prego di <em>non</em>
-inviarmi email. Vi incoraggio, invece, a contattarmi via Moodle, anche
-per organizzare incontri di gruppo (ma non necessariamente). In tali
-incontri potremo chiacchierare tranquillamente via Google Meet o
-Webex.</p>
+<p>Questo è un periodo storico insolito, per tutti noi. Il COVID-19 non
+è ancora stato neutralizzato. Detto questo, e date le preoccupazioni per
+il mio benessere e il benessere dei membri della mia famiglia, durante
+le lezioni in presenza mi comporterò nel modo seguente: me ne andrò
+dall’aula immediatamente dopo avere finito la lezione. È normale voler
+chiedere al professore qualcosa in privato dopo la lezione, o anche solo
+chiacchierare con lui sugli argomenti della lezione, durante la pausa.
+Tuttavia, questo non è un momento normale e dobbiamo adattarci alla
+situazione in cui ci troviamo. Ciò nonostante, continuerò ad essere
+facilmente reperibile. Vi prego di <em>non</em> inviarmi email. Vi
+incoraggio, invece, a contattarmi via Moodle, anche per organizzare
+incontri di gruppo (ma non necessariamente). In tali incontri potremo
+chiacchierare tranquillamente via Google Meet o Webex.</p>
 </div>
 <div id="norme-relative-alluso-della-posta-elettronica"
 class="section level3">

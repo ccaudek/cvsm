@@ -3,13 +3,13 @@ title: "Costruzione e validazione di strumenti di misura dell'efficacia dell'int
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
-Questa è la pagina web dell'insegnamento *Costruzione e validazione di strumenti di misura dell'efficacia dell'intervento psicologico in neuropsicologia*, prof. [Corrado Caudek](https://ccaudek.github.io/caudeklab/), Corso di Laurea Magistrale in Psicologia Clinica e della Salute e Neuropsicologia (curriculum: assessment e intervento psicologico in neuropsicologia - E21), [Università degli Studi di Firenze](https://www.unifi.it), anno accademico 2021-2022.
+Questa è la pagina web dell'insegnamento *Costruzione e validazione di strumenti di misura dell'efficacia dell'intervento psicologico in neuropsicologia*, prof. [Corrado Caudek](https://ccaudek.github.io/caudeklab/), Corso di Laurea Magistrale in Psicologia Clinica e della Salute e Neuropsicologia (curriculum: assessment e intervento psicologico in neuropsicologia - E21), [Università degli Studi di Firenze](https://www.unifi.it), anno accademico 2022-2023.
 
-_Questa pagina web verrà periodicamente aggiornata durante il periodo di svolgimento dell'insegnamento (marzo-maggio 2022)._
+_Questa pagina web verrà periodicamente aggiornata durante il periodo di svolgimento dell'insegnamento (marzo-maggio 2023)._
 
 ## Descrizione sintetica 
 
-L'insegnamento *Costruzione e validazione di strumenti di misura dell'efficacia dell'intervento psicologico in neuropsicologia* ha lo scopo di fornire agli studenti le conoscenze di base di statistica, di analisi dei dati e di metodologia della ricerca che costituiscono uno degli aspetti centrali del bagaglio professionale dello psicologo. Il presente insegnamento non si limiterà ad una descrizione astratta degli argomenti trattati, anche perché tali concetti risultano poco comprensibili se non vengono utilizzati nell'ambito di applicazioni concrete. Gli argomenti del corso verranno invece accompagnati da esercitazioni pratiche e laboratori didattici. Per tali analisi guidate dei dati sarà necessario utilizzare un computer e un linguaggio di programmazione per l'analisi statistica dei dati. Poiché la psicometria e la statistica moderne possono essere eseguite utilizzando software open source come $\textsf{R}$, gli esempi saranno presentati in $\textsf{R}$. 
+L'insegnamento *Costruzione e validazione di strumenti di misura dell'efficacia dell'intervento psicologico in neuropsicologia* ha lo scopo di fornire agli studenti le conoscenze di base di statistica, di analisi dei dati e di metodologia della ricerca che costituiscono uno degli aspetti centrali del bagaglio professionale dello psicologo. Il presente insegnamento non si limiterà ad una descrizione astratta degli argomenti trattati, anche perché tali concetti risultano poco comprensibili se non vengono utilizzati nell'ambito di applicazioni concrete. Gli argomenti del corso verranno invece accompagnati da esercitazioni pratiche e laboratori didattici. Per tali analisi guidate dei dati sarà necessario utilizzare un computer e un linguaggio di programmazione per l'analisi statistica dei dati. Poiché la psicometria e la statistica moderne possono essere eseguite utilizzando software open source, gli esempi saranno presentati in $\textsf{R}$. 
 
 ## Obiettivi formativi
 
@@ -19,13 +19,13 @@ L'insegnamento *Costruzione e validazione di strumenti di misura dell'efficacia 
 
 ## Prerequisiti
 
-Trattando di argomenti avanzati, questo insegnamento presuppone la conoscenza di base dei concetti fondamentali della teoria delle probabilità; presuppone inoltre il possesso delle conoscenze di base necessarie per procedere all'utilizzo di $\textsf{R}$. Informazioni su tali argomenti sono forniti nella dispensa di Psicometria (A.A. 2021-2022).
+Trattando di argomenti avanzati, questo insegnamento presuppone la conoscenza di base dei concetti fondamentali della teoria delle probabilità; presuppone inoltre il possesso delle conoscenze di base necessarie per procedere all'utilizzo di $\textsf{R}$. Informazioni su tali argomenti sono forniti nella dispensa di Psicometria (A.A. 2022-2023).
 
 ## Ulteriori informazioni
 
 ### Ricevimento
 
-Questo è un periodo storico insolito, per tutti noi. Non avremo un "luogo fisico" in cui poterci incontrare al di fuori delle lezioni. Il COVID-19 non è ancora stato neutralizzato. Detto questo, e date le preoccupazioni per il mio benessere e il benessere dei membri della mia famiglia, durante le lezioni in presenza mi comporterò nel modo seguente: me ne andrò dall’aula immediatamente dopo avere finito la lezione. È normale voler chiedere al professore qualcosa in privato dopo la lezione, o anche solo chiacchierare con lui sugli argomenti della lezione, durante la pausa. Tuttavia, questo non è un momento normale e dobbiamo adattarci alla situazione in cui ci troviamo. Ciò nonostante, continuerò ad essere facilmente reperibile. Vi prego di _non_ inviarmi email. Vi incoraggio, invece, a contattarmi via Moodle, anche per organizzare incontri di gruppo (ma non necessariamente). In tali incontri potremo chiacchierare tranquillamente via Google Meet o Webex.
+Questo è un periodo storico insolito, per tutti noi. Il COVID-19 non è ancora stato neutralizzato. Detto questo, e date le preoccupazioni per il mio benessere e il benessere dei membri della mia famiglia, durante le lezioni in presenza mi comporterò nel modo seguente: me ne andrò dall’aula immediatamente dopo avere finito la lezione. È normale voler chiedere al professore qualcosa in privato dopo la lezione, o anche solo chiacchierare con lui sugli argomenti della lezione, durante la pausa. Tuttavia, questo non è un momento normale e dobbiamo adattarci alla situazione in cui ci troviamo. Ciò nonostante, continuerò ad essere facilmente reperibile. Vi prego di _non_ inviarmi email. Vi incoraggio, invece, a contattarmi via Moodle, anche per organizzare incontri di gruppo (ma non necessariamente). In tali incontri potremo chiacchierare tranquillamente via Google Meet o Webex.
 
 ### Norme relative all'uso della posta elettronica
 
