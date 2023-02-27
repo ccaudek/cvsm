@@ -5,15 +5,11 @@ date: "Pagina aggiornata il `r Sys.Date()`"
 
 # Progetto
 
-Il laboratorio didattico si propone di mettere gli studenti nella condizione di saper dimostrare come applicare le conoscenze e gli strumenti acquisiti durante il corso. 
-
-- Obiettivo del laboratorio didattico è la produzione di un elaborato nel quale, a partire dai dati reali che gli studenti contribuiranno a raccogliere, svolge tutto il percorso di
-  - costruzione di uno strumento psicometrico, oppure
-  - validazione di uno strumento psicometrico già esistente.
+Il laboratorio didattico ha l'obiettivo di fornire agli studenti l'opportunità di applicare le conoscenze e gli strumenti acquisiti durante il corso in modo pratico e concreto. In particolare, gli studenti saranno impegnati nella produzione di un elaborato che riguarda la costruzione o la validazione di uno strumento psicometrico utilizzando dati reali raccolti durante il laboratorio stesso. Questo percorso include tutte le fasi necessarie, dal processo di costruzione fino alla validazione finale dello strumento.
 
 ## Modalità di svolgimento
 
-Il laboratorio didattico prevede una serie di incontri che si svolgeranno sia collettivamente, a lezione, sia separatamente per i vari gruppi, sotto la supervisione del docente. Il resto si svolgerà tramite incontri organizzati autonomamente dai partecipanti e online in piattaforma Moodle tramite il Forum.
+Il laboratorio didattico prevede una serie di incontri sia collettivi, in classe, sia individuali per i vari gruppi, sotto la supervisione del docente. Inoltre, saranno organizzati incontri online attraverso il Forum di Moodle per consentire agli studenti di organizzarsi autonomamente.
 
 ## Consegne di lavoro
 

@@ -3,24 +3,25 @@ title: "Modalità di verifica dell'apprendimento"
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
-Il programma d'esame è identico per gli studenti frequentanti e per gli studenti non frequentanti.
+Il programma d'esame è lo stesso sia per gli studenti frequentanti che per quelli non frequentanti.
 
 ## Studenti frequentanti
 
-Per essere considerato uno studente _frequentante_ è necessario
+Per essere considerati frequentanti, gli studenti dovranno:
 
-1. partecipare in maniera attiva alle lezioni,
-2. completare gli esercizi WarmUp entro i tempi indicati,
-3. completare le attività del laboratorio didattico (stesura e presentazione orale di un lavoro di costruzione/validazione di un reattivo psicologico).
+- Partecipare attivamente alle lezioni
+- Completare gli esercizi WarmUp entro i tempi indicati
+- Svolgere le attività del laboratorio didattico, che consistono nella stesura e presentazione orale di un lavoro sulla costruzione/validazione di un reattivo psicologico.
 
-Negli anni passati la quasi totalità degli studenti ha scelto (con profitto) la modalità d'esame per studenti frequentanti.
+Negli anni passati, la maggior parte degli studenti ha scelto con successo di seguire la modalità d'esame per gli studenti frequentanti.
 
 ## Studenti non frequentanti
 
-L'esame che si svolgerà nel periodo previsto per le sessioni d'esami avrà la seguente forma: 
-- utilizzando dei dati messi a disposizione durante l'esame, allo studente verrà richiesto di svolgere una serie di analisi statistiche relative alla validazione di uno strumento psicometrico;
-- seguirà un esame orale sugli argomenti presentati nelle dispense e nel testo di Brown (2015).
+L'esame si svolgerà durante il periodo previsto per le sessioni d'esami e avrà la seguente struttura:
 
-Per partecipare all'esame è richiesto l'uso del proprio computer portatile. Dato che gli esami si svolgono in presenza, gli studenti _dovranno portare con sé un computer portatile alla Torretta_.
+- Gli studenti dovranno utilizzare i dati forniti per svolgere una serie di analisi statistiche relative alla validazione di uno strumento psicometrico.
+- Seguirà un esame orale sui contenuti presentati nelle dispense e nel libro di testo di Brown (2015).
+
+Per partecipare all'esame, gli studenti dovranno portare il proprio computer portatile alla Torretta, dove si svolgerà l'esame in presenza.
 
 

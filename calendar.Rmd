@@ -15,11 +15,11 @@ firstday <- "02-03-2023"
 meetings <- dmy(firstday) + c(0:15) * weeks(1)
 
 meeting_headers <- paste0(
-  "Settimana ", 1:15, " (", day(meetings), " ", months(meetings), " 2022)"
+  "Settimana ", 1:15, " (", day(meetings), " ", months(meetings), " 2023)"
 )
 ```
 
-Viene qui fornito un calendario di ciò che faremo durante il semestre insieme alle scadenze per la consegna degli esercizi WarmUp. I compiti assegnati vanno svolti nella settimana indicata e riguardano gli argomenti discussi la settimana successiva. Il termine ultimo per la consegna è il giorno precedente al primo giorno di lezione della settimana in questione -- per esempio, se nella seconda settimana di maggio il primo giorno di lezione è mercoledì 11 maggio, allora gli esercizi WarmUp vanno consegnati entro martedì 10 maggio. 
+Viene qui fornito un calendario approssimativo di ciò che faremo durante il semestre.
 
 **Il presente calendario non è definitivo e potrà subire delle variazioni che saranno comunicate mediante l'aggiornamento di questa pagina web.**
 
@@ -33,10 +33,18 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 - Esercitazioni con $\textsf{R}$.
 
-
 <!-- ------------------------------------------------------ -->
 
 ### `r meeting_headers[2]`
+
+*Incontri di lezione ed esercitazioni pratiche #* 1, 2
+
+- Esercitazioni con $\textsf{R}$.
+
+
+<!-- ------------------------------------------------------ -->
+
+### `r meeting_headers[3]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 3, 4, 5
 
@@ -44,7 +52,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[3]`
+### `r meeting_headers[4]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 6, 7, 8
 
@@ -56,7 +64,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[4]`
+### `r meeting_headers[5]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 9, 10, 11
 
@@ -64,7 +72,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[5]`
+### `r meeting_headers[6]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 12, 13, 14
 
@@ -76,14 +84,14 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[6]`
+### `r meeting_headers[7]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 15, 16, 17
  - D9, D10
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[7]`
+### `r meeting_headers[8]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 18, 19, 20
 - D11, D12, D13, algebra matriciale
@@ -93,7 +101,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[8]`
+### `r meeting_headers[9]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 21, 22, 23
 
@@ -101,7 +109,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[9]`
+### `r meeting_headers[10]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 24, 25, 26
 
@@ -113,7 +121,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[10]`
+### `r meeting_headers[11]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 27, 28, 29
 
@@ -121,7 +129,7 @@ Viene qui fornito un calendario di ciò che faremo durante il semestre insieme a
 
 <!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[11]`
+### `r meeting_headers[12]`
 
 *Incontri di lezione ed esercitazioni pratiche #* 30, 31, 32
 
