@@ -31,22 +31,22 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 
 *Incontri di lezione ed esercitazioni pratiche #* 1, 2
 
-- Esercitazioni con $\textsf{R}$.
+- Presentazione dell'insegnamento
 
 <!-- ------------------------------------------------------ -->
 
 ### `r meeting_headers[2]`
 
-*Incontri di lezione ed esercitazioni pratiche #* 1, 2
+*Incontri di lezione ed esercitazioni pratiche #* 3, 4, 5
 
-- Esercitazioni con $\textsf{R}$.
+- Introduzione a $\textsf{R}$.
 
 
 <!-- ------------------------------------------------------ -->
 
 ### `r meeting_headers[3]`
 
-*Incontri di lezione ed esercitazioni pratiche #* 3, 4, 5
+*Incontri di lezione ed esercitazioni pratiche #* 6, 7, 8
 
 - Teora delle probabilità e modello lineare.
 
@@ -56,7 +56,7 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 
 *Incontri di lezione ed esercitazioni pratiche #* 6, 7, 8
 
-- D1, D2, D3
+- Teoria classica dei test
  
 *Compiti*:
 
@@ -125,7 +125,7 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 
 *Incontri di lezione ed esercitazioni pratiche #* 27, 28, 29
 
-- D16, D17, D18
+Questa settimana non ci saranno incontri in classe in quanto un CFU del corso si svolge in modalità *blended*. Durante questo periodo, gli studenti saranno impegnati nella preparazione delle presentazioni dei loro progetti di gruppo.
 
 <!-- ------------------------------------------------------ -->
 

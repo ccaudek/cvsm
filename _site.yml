@@ -1,7 +1,7 @@
 name: "CVSM"
 output_dir: "."
 navbar:
-  title: "B020881 (B213) - AA 2021-2022"
+  title: "B020881 (B213) - AA 2022-2023"
   left:
     - text: "Introduzione"
       href: index.html
