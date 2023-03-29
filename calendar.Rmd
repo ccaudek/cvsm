@@ -10,7 +10,7 @@ library("lubridate")
 ```
 
 ```{r include = FALSE}
-firstday <- "02-03-2023"
+firstday <- "27-02-2023"
     
 meetings <- dmy(firstday) + c(0:15) * weeks(1)
 
@@ -46,7 +46,7 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 
 ### `r meeting_headers[3]`
 
-*Incontri di lezione ed esercitazioni pratiche #* 6, 7, 8
+*Incontri di lezione ed esercitazioni pratiche #* 6, 7, 
 
 - Teora delle probabilità e modello lineare.
 
@@ -54,7 +54,7 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 
 ### `r meeting_headers[4]`
 
-*Incontri di lezione ed esercitazioni pratiche #* 6, 7, 8
+*Incontri di lezione ed esercitazioni pratiche #* 8, 9
 
 - Teoria classica dei test
  
@@ -66,7 +66,7 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 
 ### `r meeting_headers[5]`
 
-*Incontri di lezione ed esercitazioni pratiche #* 9, 10, 11
+*Incontri di lezione ed esercitazioni pratiche #* 10, 11, 12
 
 - D4, D5, D6
 
