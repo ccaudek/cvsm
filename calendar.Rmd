@@ -40,10 +40,10 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 | 7 |	23/03/2023 |	Teoria classica dei test. Attendibilità. Errore standard di misura, stima dell'intervallo di fiducia attorno al valore vero. | D10 |
 | 8 |	28/03/2023 | Errore standard di stima. Intervallo di confidenza per la stima del punteggio vero. Introduzione all'analisi fattoriale. Annullamento della tetrade. Metodo del centroide. Introduzione a lavaan. | D11, D12, D13, D14 |
 | 9 | 30/03/2023 | Modello unifattoriale | D15 |
-| 10 | 04/04/2023 | modello multifattoriale, punteggi fattoriali | D16, D17 | 
-| 11| 13/04/2023 | Analisi dei percorsi | D18 |
-| 12| 18/04/2023 | Attendibilità e FA | D19, D20 |
-| 13| 20/04/2023 |Algebra matriciale | Appendici |
+| 10| 04/04/2023 |Algebra matriciale | Appendici |
+| 11 | 13/04/2023 | modello multifattoriale, punteggi fattoriali | D16, D17 | 
+| 12 | 18/04/2023 | Analisi dei percorsi | D18 |
+| 13 | 20/04/2023 | Attendibilità e FA | D19, D20 |
 | 14 | 27/04/2023 | Costruzione strumenti | D21, D22, D23 |
 | 15 | 02/05/2023 | Numero fattori, rotazione | D24, D25, D26 |
 | 16 | 05/05/2023 | Invarianza misura, indici di bontà di adattamento | D27, D28 |
