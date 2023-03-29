@@ -19,123 +19,150 @@ meeting_headers <- paste0(
 )
 ```
 
-Viene qui fornito un calendario approssimativo di ciò che faremo durante il semestre.
+Viene qui fornito un calendario approssimativo di ciò che faremo durante il semestre. Le indicazioni `D1`, `D2`, ..., fanno riferimento ai capitoli delle dispense.
 
 **Il presente calendario non è definitivo e potrà subire delle variazioni che saranno comunicate mediante l'aggiornamento di questa pagina web.**
 
 \
 
-<!-- ------------------------------------------------------ -->
+| Incontro |  Data | Argomento | Dispense |
+| :------: | :---: | --------- | -------- |
+| 1 |	02/03/2023 |	Presentazione del corso. Introduzione al linguaggio di programmazione probabilistico R | D1, D2 |
+| 2 |	07/03/2023 |	Le funzionalità di R per l'analisi dei dati psicologici	| D3, D4 |
+| 3 |	09/03/2023 |	Tidyverse per la manipolazione dei dati psicologici	| D5, D6, D7 |
+| 4 |	14/03/2023 |	Analisi di regressione come fondamento dell'analisi fattoriale | D8.1 |
+| 5 |	16/03/2023 |	Il modello di regressione multipla | D82., D8.3 |
+| 6 |	21/03/2023 |	Elementi di teoria della probabilità. Introduzione alle teoria classica dei test. | D9 |
+| 7 |	23/03/2023 |	Teoria classica dei test. Attendibilità. Errore standard di misura, stima dell'intervallo di fiducia attorno al valore vero. | D10 |
+| 8 |	28/03/2023 | Errore standard di stima. Intervallo di confidenza per la stima del punteggio vero. Introduzione all'analisi fattoriale. Annullamento della tetrade. Metodo del centroide. Introduzione a lavaan. | D11, D12, D13, D14 |
+| 9 | 30/03/2023 | Modello unifattoriale | D15 |
+| 10 | 04/04/2023 | modello multifattoriale, punteggi fattoriali | D16, D17 | 
+| 11| 13/04/2023 | Analisi dei percorsi | D18 |
+| 12| 18/04/2023 | Attendibilità e FA | D19, D20 |
+| 13| 20/04/2023 |Algebra matriciale | Appendici |
+| 14 | 27/04/2023 | Costruzione strumenti | D21, D22, D23 |
+| 15 | 02/05/2023 | Numero fattori, rotazione | D24, D25, D26 |
+| 16 | 05/05/2023 | Invarianza misura, indici di bontà di adattamento | D27, D28 |
+| 17 | 09/05/2023 | Revisione modello | D29, D30 |
+| 18 | 11/05/23 | Curve di crescita latente, dati categoriali | D31, D32 |
+| 19 | 16/05/23 | Didattica in modalità blended: preparazione delle presentazioni dei  progetti  | |
+| 20 | 18/05/23  | Presentazioni degli studenti frequentanti 1 | |
+| 21 | 23/05/23 | Presentazioni degli studenti frequentanti 2 | |
 
-### `r meeting_headers[1]`
-
-*Incontri di lezione ed esercitazioni pratiche #* 1, 2
-
-- Presentazione dell'insegnamento
-
-<!-- ------------------------------------------------------ -->
-
-### `r meeting_headers[2]`
-
-*Incontri di lezione ed esercitazioni pratiche #* 3, 4, 5
-
-- Introduzione a $\textsf{R}$.
 
 
-<!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[3]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 6, 7, 
+<!-- ### `r meeting_headers[1]` -->
 
-- Teora delle probabilità e modello lineare.
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 1, 2 -->
 
-<!-- ------------------------------------------------------ -->
+<!-- - Presentazione dell'insegnamento -->
 
-### `r meeting_headers[4]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 8, 9
+<!-- ### `r meeting_headers[2]` -->
 
-- Teoria classica dei test
- 
-*Compiti*:
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 3, 4, 5 -->
 
-- WU1 (analisi di regressione e TTC in $\textsf{R}$)
+<!-- - Introduzione a $\textsf{R}$. -->
 
-<!-- ------------------------------------------------------ -->
 
-### `r meeting_headers[5]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 10, 11, 12
+<!-- ### `r meeting_headers[3]` -->
 
-- D4, D5, D6
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 6, 7,  -->
 
-<!-- ------------------------------------------------------ -->
+<!-- - Teora delle probabilità e modello lineare. -->
 
-### `r meeting_headers[6]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 12, 13, 14
+<!-- ### `r meeting_headers[4]` -->
 
-- D7, D8
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 8, 9 -->
 
-*Compiti*: 
+<!-- - Teoria classica dei test -->
 
-- WU2 (analisi fattoriale in $\textsf{R}$)
+<!-- *Compiti*: -->
 
-<!-- ------------------------------------------------------ -->
+<!-- - WU1 (analisi di regressione e TTC in $\textsf{R}$) -->
 
-### `r meeting_headers[7]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 15, 16, 17
- - D9, D10
+<!-- ### `r meeting_headers[5]` -->
 
-<!-- ------------------------------------------------------ -->
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 10, 11, 12 -->
 
-### `r meeting_headers[8]`
+<!-- - D4, D5, D6 -->
 
-*Incontri di lezione ed esercitazioni pratiche #* 18, 19, 20
-- D11, D12, D13, algebra matriciale
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Compiti*: 
-- WU4 (attendibilità)
+<!-- ### `r meeting_headers[6]` -->
 
-<!-- ------------------------------------------------------ -->
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 12, 13, 14 -->
 
-### `r meeting_headers[9]`
+<!-- - D7, D8 -->
 
-*Incontri di lezione ed esercitazioni pratiche #* 21, 22, 23
+<!-- *Compiti*:  -->
 
-- D11, D12, D13
+<!-- - WU2 (analisi fattoriale in $\textsf{R}$) -->
 
-<!-- ------------------------------------------------------ -->
+<!-- <!-- ------------------------------------------------------ --> 
 
-### `r meeting_headers[10]`
+<!-- ### `r meeting_headers[7]` -->
 
-*Incontri di lezione ed esercitazioni pratiche #* 24, 25, 26
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 15, 16, 17 -->
+<!--  - D9, D10 -->
 
-- D14, D15, growth models
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Compiti*: 
+<!-- ### `r meeting_headers[8]` -->
 
-- WU5 (numero di fattori, invarianza fattoriale)
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 18, 19, 20 -->
+<!-- - D11, D12, D13, algebra matriciale -->
 
-<!-- ------------------------------------------------------ -->
+<!-- *Compiti*:  -->
+<!-- - WU4 (attendibilità) -->
 
-### `r meeting_headers[11]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 27, 28, 29
+<!-- ### `r meeting_headers[9]` -->
 
-Questa settimana non ci saranno incontri in classe in quanto un CFU del corso si svolge in modalità *blended*. Durante questo periodo, gli studenti saranno impegnati nella preparazione delle presentazioni dei loro progetti di gruppo.
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 21, 22, 23 -->
 
-<!-- ------------------------------------------------------ -->
+<!-- - D11, D12, D13 -->
 
-### `r meeting_headers[12]`
+<!-- <!-- ------------------------------------------------------ --> 
 
-*Incontri di lezione ed esercitazioni pratiche #* 30, 31, 32
+<!-- ### `r meeting_headers[10]` -->
 
-*Presentazioni dei lavori di gruppo per gli studenti frequentanti*
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 24, 25, 26 -->
 
-<!-- ------------------------------------------------------ -->
+<!-- - D14, D15, growth models -->
+
+<!-- *Compiti*:  -->
+
+<!-- - WU5 (numero di fattori, invarianza fattoriale) -->
+
+<!-- <!-- ------------------------------------------------------ --> 
+
+<!-- ### `r meeting_headers[11]` -->
+
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 27, 28, 29 -->
+
+<!-- Questa settimana non ci saranno incontri in classe in quanto un CFU del corso si svolge in modalità *blended*. Durante questo periodo, gli studenti saranno impegnati nella preparazione delle presentazioni dei loro progetti di gruppo. -->
+
+<!-- <!-- ------------------------------------------------------ --> 
+
+<!-- ### `r meeting_headers[12]` -->
+
+<!-- *Incontri di lezione ed esercitazioni pratiche #* 30, 31, 32 -->
+
+<!-- *Presentazioni dei lavori di gruppo per gli studenti frequentanti* -->
+
+<!-- <!-- ------------------------------------------------------ --> 
 
 
 
