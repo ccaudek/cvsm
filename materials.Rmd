@@ -3,6 +3,8 @@ title: "Materiali didattici"
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
+\
+
 ## Dispensa
 
 Tutto ciò che verrà discusso a lezione è presente nella dispensa [cvsm2023](https://ccaudek.github.io/cfa_book/).

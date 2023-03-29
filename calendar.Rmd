@@ -1,5 +1,5 @@
 ---
-title: "Calendario delle attività didattiche"
+title: "Calendario delle lezioni"
 date: "Pagina aggiornata il `r Sys.Date()`"
 biblio-style: apalike
 ---
@@ -18,6 +18,10 @@ meeting_headers <- paste0(
   "Settimana ", 1:15, " (", day(meetings), " ", months(meetings), " 2023)"
 )
 ```
+
+\
+
+## Date e argomenti degli incontri
 
 Viene qui fornito un calendario approssimativo di ciò che faremo durante il semestre. Le indicazioni `D1`, `D2`, ..., fanno riferimento ai capitoli delle dispense.
 

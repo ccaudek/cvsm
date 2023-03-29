@@ -3,9 +3,10 @@ title: "Costruzione e validazione di strumenti di misura dell'efficacia dell'int
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
+\
+
 Questa è la pagina web dell'insegnamento *Costruzione e validazione di strumenti di misura dell'efficacia dell'intervento psicologico in neuropsicologia*, prof. [Corrado Caudek](https://ccaudek.github.io/caudeklab/), Corso di Laurea Magistrale in Psicologia Clinica e della Salute e Neuropsicologia (curriculum: assessment e intervento psicologico in neuropsicologia - E21), [Università degli Studi di Firenze](https://www.unifi.it), anno accademico 2022-2023.
 
-_Questa pagina web verrà periodicamente aggiornata durante il periodo di svolgimento dell'insegnamento (marzo-maggio 2023)._
 
 ## Descrizione sintetica 
 

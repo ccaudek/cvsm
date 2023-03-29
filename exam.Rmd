@@ -3,6 +3,8 @@ title: "Modalità di verifica dell'apprendimento"
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
+\
+
 Il programma d'esame è lo stesso sia per gli studenti frequentanti che per quelli non frequentanti.
 
 ## Studenti frequentanti

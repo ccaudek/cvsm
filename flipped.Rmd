@@ -3,6 +3,8 @@ title: "Insegnamento capovolto"
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
+\
+
 ## Flip teaching
 
 Durante questo corso, adotteremo la metodologia didattica conosciuta come flipped teaching. Questo metodo prevede due momenti distinti: durante il primo momento, gli studenti saranno tenuti a studiare i materiali didattici assegnati (disponibili sulla piattaforma Moodle) individualmente, prima della lezione. Nel secondo momento, che avverrà durante le ore in classe, gli studenti parteciperanno ad attività di discussione, esercitazioni e approfondimento degli argomenti trattati. Ciò permetterà agli studenti di consolidare e approfondire i concetti appresi e di sperimentare una logica di apprendimento basata sull'esperienza.

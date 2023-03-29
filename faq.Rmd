@@ -3,6 +3,8 @@ title: "FAQ"
 date: "Pagina aggiornata il `r Sys.Date()`"
 ---
 
+\
+
 ## Istallare `knitr`
 
 Se avete installato RStudio e $\textsf{R}$, è probabile che sulla vostra macchina manchi `knitr`, il pacchetto responsabile del rendering dei notebook in pdf.
