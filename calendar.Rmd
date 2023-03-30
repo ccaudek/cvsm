@@ -38,8 +38,8 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 | 5 |	16/03/2023 |	Il modello di regressione multipla | D82., D8.3 |
 | 6 |	21/03/2023 |	Elementi di teoria della probabilità. Introduzione alle teoria classica dei test. | D9 |
 | 7 |	23/03/2023 |	Teoria classica dei test. Attendibilità. Errore standard di misura, stima dell'intervallo di fiducia attorno al valore vero. | D10 |
-| 8 |	28/03/2023 | Errore standard di stima. Intervallo di confidenza per la stima del punteggio vero. Introduzione all'analisi fattoriale. Annullamento della tetrade. Metodo del centroide. Introduzione a lavaan. | D11, D12, D13, D14 |
-| 9 | 30/03/2023 | Modello unifattoriale | D15 |
+| 8 |	28/03/2023 | Errore standard di stima. Intervallo di confidenza per la stima del punteggio vero. Introduzione all'analisi fattoriale. Annullamento della tetrade. Metodo del centroide. | D11, D12, D13, D14 |
+| 9 | 30/03/2023 | Introduzione a lavaan. Modello unifattoriale | D15 |
 | 10| 04/04/2023 |Algebra matriciale | Appendici |
 | 11 | 13/04/2023 | modello multifattoriale, punteggi fattoriali | D16, D17 | 
 | 12 | 18/04/2023 | Analisi dei percorsi | D18 |
