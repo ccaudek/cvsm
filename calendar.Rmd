@@ -46,7 +46,7 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 | 13 | 20/04/2023 | Attendibilità e FA | D19, D20 |
 | 14 | 27/04/2023 | Costruzione strumenti | D21, D22, D23 |
 | 15 | 02/05/2023 | Numero fattori, rotazione | D24, D25, D26 |
-| 16 | 05/05/2023 | Invarianza misura, indici di bontà di adattamento | D27, D28 |
+| 16 | 04/05/2023 | Invarianza misura, indici di bontà di adattamento | D27, D28 |
 | 17 | 09/05/2023 | Revisione modello | D29, D30 |
 | 18 | 11/05/23 | Curve di crescita latente, dati categoriali | D31, D32 |
 | 19 | 16/05/23 | Didattica in modalità blended: preparazione delle presentazioni dei  progetti  | |
