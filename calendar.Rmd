@@ -25,31 +25,30 @@ meeting_headers <- paste0(
 
 Viene qui fornito un calendario approssimativo di ciò che faremo durante il semestre. Le indicazioni `D1`, `D2`, ..., fanno riferimento ai capitoli delle dispense.
 
-**Il presente calendario non è definitivo e potrà subire delle variazioni che saranno comunicate mediante l'aggiornamento di questa pagina web.**
 
 \
 
 | Incontro |  Data | Argomento | Dispense |
 | :------: | :---: | --------- | -------- |
-| 1 |	02/03/2023 |	Presentazione del corso. Introduzione al linguaggio di programmazione probabilistico R | D1, D2 |
-| 2 |	07/03/2023 |	Le funzionalità di R per l'analisi dei dati psicologici	| D3, D4 |
-| 3 |	09/03/2023 |	Tidyverse per la manipolazione dei dati psicologici	| D5, D6, D7 |
-| 4 |	14/03/2023 |	Analisi di regressione come fondamento dell'analisi fattoriale | D8.1 |
-| 5 |	16/03/2023 |	Il modello di regressione multipla | D82., D8.3 |
-| 6 |	21/03/2023 |	Elementi di teoria della probabilità. Introduzione alle teoria classica dei test. | D9 |
-| 7 |	23/03/2023 |	Teoria classica dei test. Attendibilità. Errore standard di misura, stima dell'intervallo di fiducia attorno al valore vero. | D10 |
-| 8 |	28/03/2023 | Errore standard di stima. Intervallo di confidenza per la stima del punteggio vero. Introduzione all'analisi fattoriale. Annullamento della tetrade. Metodo del centroide. | D11, D12, D13, D14 |
-| 9 | 30/03/2023 | Introduzione a lavaan. Modello unifattoriale | D15 |
+| 1 |	02/03/2023 |	Presentazione del corso. Introduzione al linguaggio di programmazione probabilistico R | D1 |
+| 2 |	07/03/2023 |	Le funzionalità di R per l'analisi dei dati psicologici	| D1 |
+| 3 |	09/03/2023 |	Tidyverse per la manipolazione dei dati psicologici	| D1 |
+| 4 |	14/03/2023 |	Analisi di regressione come fondamento dell'analisi fattoriale | D2 |
+| 5 |	16/03/2023 |	Il modello di regressione multipla | D2 |
+| 6 |	21/03/2023 |	Elementi di teoria della probabilità. Introduzione alle teoria classica dei test. | D3 - D4 |
+| 7 |	23/03/2023 |	Teoria classica dei test. Attendibilità. Errore standard di misura, stima dell'intervallo di fiducia attorno al valore vero. | D5 - D6 |
+| 8 |	28/03/2023 | Errore standard di stima. Intervallo di confidenza per la stima del punteggio vero. Introduzione all'analisi fattoriale. Annullamento della tetrade. Metodo del centroide. | D7 |
+| 9 | 30/03/2023 | Introduzione a lavaan. Modello unifattoriale | D8 - D9 |
 | 10| 04/04/2023 |Algebra matriciale | Appendici |
-| 11 | 13/04/2023 | modello multifattoriale, punteggi fattoriali | D16, D17 | 
-| 12 | 18/04/2023 | Analisi dei percorsi | D18 |
-| 13 | 20/04/2023 | Attendibilità e FA | D19, D20 |
-| 14 | 27/04/2023 | Costruzione strumenti | D21, D22, D23 |
-| 15 | 02/05/2023 | Numero fattori, rotazione | D24, D25, D26 |
-| 16 | 04/05/2023 | Invarianza misura, indici di bontà di adattamento | D27, D28 |
-| 17 | 09/05/2023 | Revisione modello | D29, D30 |
-| 18 | 11/05/23 | Curve di crescita latente, dati categoriali | D31, D32 |
-| 19 | 16/05/23 | Didattica in modalità blended: preparazione delle presentazioni dei  progetti  | |
+| 11 | 13/04/2023 | modello multifattoriale, punteggi fattoriali | D10 - D11 | 
+| 12 | 18/04/2023 | Analisi dei percorsi | D12 |
+| 13 | 20/04/2023 | Attendibilità e FA | D13, D14|
+| 14 | 27/04/2023 | Costruzione strumenti | D15 - D17 |
+| 15 | 02/05/2023 | Numero fattori, rotazione | D18 - D19 |
+| 16 | 04/05/2023 | Didattica in modalità blended: preparazione delle presentazioni dei  progetti  | |
+| 17 | 09/05/2023 | Invarianza misura, indici di bontà di adattamento | D22 - D26 |
+| 18 | 11/05/2023 | Revisione modello | D27 - D30 |
+| 19 | 16/05/23 | Curve di crescita latente, dati categoriali | D31 - D38 |
 | 20 | 18/05/23  | Presentazioni degli studenti frequentanti 1 | |
 | 21 | 23/05/23 | Presentazioni degli studenti frequentanti 2 | |
 
