@@ -49,8 +49,8 @@ Viene qui fornito un calendario approssimativo di ciò che faremo durante il sem
 | 17 | 09/05/2023 | Invarianza misura, indici di bontà di adattamento | D22 - D26 |
 | 18 | 11/05/2023 | Revisione modello | D27 - D30 |
 | 19 | 16/05/23 | Curve di crescita latente, dati categoriali | D31 - D38 |
-| 20 | 18/05/23  | Presentazioni degli studenti frequentanti 1 | |
-| 21 | 23/05/23 | Presentazioni degli studenti frequentanti 2 | |
+| 20 | 23/05/23  | Presentazioni degli studenti frequentanti 1 | |
+| 21 | 25/05/23 | Presentazioni degli studenti frequentanti 2 | |
 
 
 
